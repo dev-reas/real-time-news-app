@@ -1,0 +1,12 @@
+{
+  "name": "Real",
+  "displayName": "Real",
+  "expo": {
+    "name": "Real",
+    "slug": "Real",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
